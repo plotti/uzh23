@@ -17,3 +17,4 @@ Die einzelnen Unterverzeichnisse entsprechen in etwa unseren Modulen
 # Links
 
 - https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=DE&sap-ui-language=DE#/details/2023/003/SM/51176303
+- https://colab.research.google.com/
